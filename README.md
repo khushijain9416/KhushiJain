@@ -1,4 +1,4 @@
-#Khushi Jain
+# Khushi Jain
 
 I'm a **B.Sc. Computer Science student at Shaheed Sukhdev College of Business Studies (SSCBS)**, currently focused on building a strong foundation in **programming and computer science fundamentals**.
 
